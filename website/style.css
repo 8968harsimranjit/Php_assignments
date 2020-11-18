@@ -1,0 +1,13 @@
+.site {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+  
+.site-content {
+  flex: 1;
+  padding: 2rem;
+  max-width: 900px;
+  width: 100%;
+  margin: 0 auto;
+}
